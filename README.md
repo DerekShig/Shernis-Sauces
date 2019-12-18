@@ -1,3 +1,3 @@
 # Shernis-Sauces
 
-![Image description](homepage.png)
+![Image description](Homepage.png)
